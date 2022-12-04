@@ -1,0 +1,429 @@
+#EXTM3U
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc16_14567301998.jpg" tvg-id="48f727c5946868894069316fe69b3d06",3NTV - VTC16
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1160247112?ticket=941B9B05E57BED2AB93FAD82B2EC9FA275EC8AA6&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png" tvg-id="f59f71851fbd328e2e42d3fef4d700a5",An Giang
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/91332597?ticket=9D58049A8638FD99A24A0E2606B3569A8FB7FBBC&profile=pass
+#EXTINF:-1 logo="http://xspace.talaweb.com/suamaytinhbang115/home/share/KhanhChi1202.hsvn/logo-antg.png" tvg-id="50f6d4cb055d70cd12b8c06f1318123c",An Ninh Thế Giới HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1272247888?ticket=111899E694965C713EC03F744BCA66C5C7F3E1FC&profile=pass
+#EXTINF:-1 logo="https://s19.postimg.org/mmgvy7pzn/j_QBPOPm.png" tvg-id="21aa1417232d6277016f45c70a76e636",An Ninh TV HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/387230241?ticket=3A4558A209C64FF9FA4F334FA971E83D99DAD854&profile=pass
+#EXTINF:-1 logo="http://vuapp.tranvu.info/upload//channel/1600x600/2016/06/25/1466861188.jpg" tvg-id="1d8f37210b078826d1908d0d0ad1324c",An Viên HD - BTV9
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/557289245?ticket=2FC7F3071DA86FFD7D97C2975DED3D743E30D23B&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/ooy2lyY.png" tvg-id="101d7f299402f345fdae5ea42eb8f064",Animal Planet
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/696196368?ticket=EC402D746DE59AA51F29F923C7EFE1669C856F72&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/HibfTmZ.png" tvg-id="0fb8729bfc949dc3aa43e13ceb2a7d32",Arirang
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/460503055?ticket=9638FF38EAD8B987701ACEDA0E8753B713DCF5BC&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_149759142675.png" tvg-id="c4ad6eb36247009d8ec65902b1bac387",Asian Food Channel HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/862891460?ticket=E7D7146A9113B05229139AE2CEC1B9F8378F9FA1&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_149759142675.png" tvg-id="efea73682eff6262f32571a733530199",Asian Food Channel HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1752427247?ticket=0ECEF1906F5184939B73C745EC1496CA812B939F&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/MtCA5jr.png" tvg-id="9c1c7e58236cc3762c482fae68edb667",Australia Plus
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1484659868?ticket=D128970EEB1CC0C43205E6EE3A8B229A57020E24&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png" tvg-id="815b00a48b76b850d0308fc5cca42a23",AXN HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/604003201?ticket=0F3A19E7C1417B9B60336FA701A4D2A4DCBBF80B&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_146580810334.png" tvg-id="37041e5a4301c511819aef79a6f6fd91",AXN HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1511916599?ticket=57802BC110AE0FEAF763C7D95C0AF8BD9424B9E4&profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="53e1a92b72eb7e8e47a3c74fd033dc2d",Baby TV HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/732553555?ticket=C1F1CF5DE126AB2619678560756207F2F93ABF9D&profile=pass
+#EXTINF:-1 logo="https://yt3.ggpht.com/-w1gbvReuRqM/AAAAAAAAAAI/AAAAAAAAAAA/ve40E-bIMjs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-id="3e4383cf11da418a856459a27e8b0b4f",Baby TV HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1334002494?ticket=037A917A863C1F02B0BC50A8356EB5768F17297E&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" tvg-id="f79e8e83c6eeae3f5255f6e7acc029fc",BBC Earth HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/59678455?ticket=9C0F468616DE6450277AD40A97D499382F1D0410&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_148379672898.jpg" tvg-id="f143d49ea2d62edc0b986499069391c9",BBC Earth HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/517227505?ticket=8761972F9F66F80B3124384A41916E50B3FC2E2C&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" tvg-id="1f04e4cc69b871947cbb6db8cdc1c04b",BBC Lifestyle
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1290011679?ticket=C5A1BECF36CD87057E1B9E14B5DF3560FD889C55&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_148379779959.jpg" tvg-id="465219201b0640636abccdc44c400479",BBC World News
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/538530374?ticket=108FE6B4675EF9D108655F81D2DEA7790E4804CA&profile=pass
+#EXTINF:-1 logo="https://lh4.googleusercontent.com/-6Ju85BN3Wps/UdBUoyfMYyI/AAAAAAAACJ8/IcGSMTnpNE4/SinhVienDongThap.Net---binhphuoc2.png" tvg-id="ca44908fe00cfff943248b8ce54d11f5",BPTV2 - HOMETV
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/261113034?ticket=B32954A511152BCA22716F8F4225E09DF7D9419B&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_ba-ria-vung-tau_145672972069.jpg" tvg-id="6777191ca9606ffd20d6623b0a7c9621",Bà Rịa Vũng Tàu HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/471431015?ticket=D0F3B9F5D7FA24B36B914C99810017E1DB627DDC&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_binh-duong-1_145672698207.jpg" tvg-id="32e464d207d7b48155db768d37051a18",Bình Dương 1 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1382343730?ticket=9F2ED647F451AFEEDDA93FA154841BC32BBB06A3&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_binh-duong-2_14567269985.jpg" tvg-id="5660d08c9a727e0f3c9c517e0b1e0479",Bình Dương 2 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/214982742?ticket=695A6023B816D8CD8D3398BF92B37AEFBFB3A34E&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc_14588060598.jpg" tvg-id="b20e631066532db77e783d8e382c2cfe",Bình Phước 1
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/274927282?ticket=8E751EE9EB47717BEA4E996291F692F26AC76FC6&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-thuan_145880841033.jpg" tvg-id="28b2b0f5f8a728b415fb62f47bb45380",Bình Thuận
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1974514216?ticket=75DA3070D847892E23DDDC7E3882D8D2A4C0A158&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-dinh_145672697062.jpg" tvg-id="9f62ec10030477b6b92c815abdd54d84",Bình Định
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/283927199?ticket=F7478235D7D082DFF45D9017CDE721674F2B3146&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_bac-lieu_145881130802.jpg" tvg-id="389a05d12b7d7411d2c807b267394651",Bạc Liêu
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1359321656?ticket=1F58FDC261621D4A4F363637B1E170154D530502&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_bac-giang_145880839804.jpg" tvg-id="9908812e8b11cb3373e3d464a0d1bd89",Bắc Giang
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/780208281?ticket=24964FDD16CE1B44E12F8387B57AA724A9493CE2&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_bac-ninh_145880754588.jpg" tvg-id="a057620e16ab5bdb0a163a797ba012df",Bắc Ninh HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/241325984?ticket=45C4693E91A5F15F66694D38D27E31091F9A3E5C&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg" tvg-id="699b291d7c0cdcb2c1b3a3625c910da8",Bến Tre
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/489266025?ticket=C76F5F43816410D350A7340E5DD3C37DF8CDD90C&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cao-bang_149283044994.jpg" tvg-id="9c21e9339281acc4f05266f58d44f5ad",Cao Bằng
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/870916508?ticket=463BAC35270DA963095706117CB73D4156729B97&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png" tvg-id="f89b2e605e581b7db7cef1c18c69d2b7",Cartoon Network HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1613667320?ticket=A8446CD571DEA3AB5A1B2128ED51B98DC6071926&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png" tvg-id="35cfa6ec5288e875038715067ccf2f34",Cartoon Network HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1822871349?ticket=DEEFD877B046B19ADC47D04C064CADC625A13895&profile=pass
+#EXTINF:-1 logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fb/Channel_V_HD.png/revision/latest?cb=20110928200720" tvg-id="bd457f4486aec3278e57517971ecdf5b",Channel [V] HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1149191613?ticket=85639E0015FBAA0AA35667A4476E59F84B3B3117&profile=pass
+#EXTINF:-1 logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/fb/Channel_V_HD.png/revision/latest?cb=20110928200720" tvg-id="aa1820e21c5ad79b95f1e0a6388719af",Channel [V] HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1646270634?ticket=D64025484362600E0C8F3EABE49C7C3242F1186E&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/DhcvpCm.png" tvg-id="4df190fe135847771847f3f0b001763e",Channel News Asia
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/2123428173?ticket=12CA1DB97CFE1F3DC19F17F0A451C742F4412C83&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png" tvg-id="0b3a6ea4adeacf05d421ef6a7ced71b3",Cinema World HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/611203595?ticket=3A5D0654A3E9B363B46B8B770CDB496EE2405B99&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/dSArT2c.png" tvg-id="7b806f5aa8d41bf0d0283de3d9d11e6d",CNBC
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1517256827?ticket=33ED8788D0E87466427A03CB797D6A4DA8A3056A&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/qTmK57R.png" tvg-id="779e2085ba887d12a9bd9eb2a6a2b8cd",CNN
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/86023799?ticket=E29F371F38F5977D17E669A40C26C8824ADEC823&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ca-mau_145880865141.jpg" tvg-id="31b60c55554bb821e3631ef75e9ce66d",Cà Mau
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1426896433?ticket=07BE6C8BB2803D6939C5CF836785D8CB8CF5761B&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_can-tho_145672728114.jpg" tvg-id="ab01a3f4b61d432eb562862642e2ccf0",Cần Thơ
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1956839851?ticket=397DE6FCE491F3093071ED08369348C4CB02D9BA&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png" tvg-id="56bdeb48a493b70265a92956a573ab96",Da Vinci Learning HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1223408982?ticket=B7D8ADA94FDB25550DC5284A7DA68227ACB7483F&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png" tvg-id="67175ef9753e1d43789217a9f5bf3ba5",Da Vinci Learning HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/2036209511?ticket=59BCA721FC7095C8C5892B1A2C30B9FEEA68793B&profile=pass
+#EXTINF:-1 logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" tvg-id="5863ceac639c1e774c2ecc01a649f8f3",Discovery Asia HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/751723352?ticket=2EF2C9A9C7E1F8FB2858203C6063D215890A0139&profile=pass
+#EXTINF:-1 logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" tvg-id="cf3b826c7a5645787cfc59cf91875373",Discovery Asia HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1820474319?ticket=3DB70D772F690AA8D6BFBE763BC9D4890C35D96D&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/lB0VeoB.png" tvg-id="94486b6256ff71b820085804c2dd6b77",Discovery Channel HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1651198100?ticket=ECAAD3CC0C90DB583E54E08F32F92BC6991D00DE&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/Yvfpf3s.png" tvg-id="5d5132857e10d22499fe8893cd126604",Disney Channel HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/87183709?ticket=3462A03FFAA14B6D6C99E1FCA70D926B5E603B61&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/Yvfpf3s.png" tvg-id="8b41049deac54bd5a4bba7f87c16e4e0",Disney Channel HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/486818187?ticket=233BBE46D004ACAF7CFAA2D2F97AE98B7EB1B40B&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/pGJmJmJ.png" tvg-id="ebba92e57a3f614afb36c1179bd746af",Disney Junior
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1704114923?ticket=D6E9A579BE6A1E90FFC77FF0681261ECEB18FB57&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_diva_149759143894.png" tvg-id="5f7a4a3687e92396d84017df9473edf1",Diva
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/910850655?ticket=69C92FB8FF2BFE00BEC30BF0A77C2F46C0F00564&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/BPm4OOu.png" tvg-id="77fb534c8420c3ec1336969628258ac7",DW HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1280572279?ticket=1BDE6D38E6E99B4599DBC1D658F8F4FEE6DD28BB&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/2gKHeDW.png" tvg-id="72b482b662e4c1410dc75044c20d2fd1",Fashion TV HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/914535538?ticket=85A86F622B5B495785313991AC90F3B8745063D3&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/2gKHeDW.png" tvg-id="51cafd6a14bff05498a4a7b5f49d1688",Fashion TV HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1795017297?ticket=DC02112E68DFAE0F4C10F4264C2F6B4C3802F995&profile=pass
+#EXTINF:-1 logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" tvg-id="6193a503bb2d7c2ee7fc2f2bc1400778",FOX HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/61182817?ticket=32868CA3D48D440BF204B5AB9692087AE135EF89&profile=pass
+#EXTINF:-1 logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/724_300.png" tvg-id="0a6b1db788dd1fc20e29d182e30d8db3",FOX HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/924674826?ticket=1BA7F0C1697196FB2ED6D9CECEAC9BE4B08A459A&profile=pass
+#EXTINF:-1 logo="http://tvimages.burrp.com/images/channels2/entertainment/Fox-Life.png" tvg-id="274be33e294c93431a66b9d21a900cfb",Fox Life HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1055083303?ticket=26AA19214FD21D0245393DC9D30624E324D78F6F&profile=pass
+#EXTINF:-1 logo="http://tvimages.burrp.com/images/channels2/entertainment/Fox-Life.png" tvg-id="91921b63db302a10714190d5887dfd08",Fox Life HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1662751377?ticket=FF69DC2956AA7565FD04D767198A23426FF62264&profile=pass
+#EXTINF:-1 logo="http://singteltv.com.sg/_channels/pic_ch414.jpg" tvg-id="13af28c86fc2d11683fec28ea27918d6",Fox Movies HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1210625811?ticket=BE92C8440B0D36AE47B20F95BD0EFD6D73AA3788&profile=pass
+#EXTINF:-1 logo="http://singteltv.com.sg/_channels/pic_ch414.jpg" tvg-id="baa58a4de1409454ceea9b14631e60b9",Fox Movies HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1300932026?ticket=76897BEB94CB1BF89DC82A3050E4BF3AAB5BB574&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/TPL8d6Y.png" tvg-id="43422d1a090a3c0a9167382693ce5806",Fox Sports 2 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/439173699?ticket=16AB635D362373DDC3DD684014FB4FE880BD9B1E&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/TPL8d6Y.png" tvg-id="54cc49387f1f0a21d52982d964467154",Fox Sports 2 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/944360532?ticket=371334BCD8BCB9DC8655CEF0AC4CDEB9B8F7C241&profile=pass
+#EXTINF:-1 logo="http://www.fifa55u.com/images/icon/FOXSports3.png" tvg-id="fc0d3006d6488b64e4fbd751c7a4f10e",Fox Sports 3 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/103812604?ticket=CCD661F5CF5C9DAF53B505B05284D34C6CCFD0C4&profile=pass
+#EXTINF:-1 logo="http://www.fifa55u.com/images/icon/FOXSports3.png" tvg-id="d28f1718096a9b99f717074d0a4cdc7b",Fox Sports 3 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/404197330?ticket=26F2DA265C441CF87CA90970A5E8B1AF0AD06DF0&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/OTGc8pX.png" tvg-id="5bc6e53492a20dfbc19216a385d8b1a9",Fox Sports HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/887473755?ticket=B0CD3D7872E3F12CB6EBDDF3EC788D75EBB93782&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/OTGc8pX.png" tvg-id="73c2c4ccea6c1026b89d937bed62895b",Fox Sports HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1287963251?ticket=C40CDF110E73D5F7AF680DEF276868C30AF53842&profile=pass
+#EXTINF:-1 logo="http://img.giaoduc.net.vn/Uploaded/quynhtien/2014_03_25/LogoFPT2.jpg" tvg-id="20220d7c9ce3e27a268a7c78c0901ba4",FPT Giới Thiệu HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/2081235488?ticket=9A6318C00AAC4A7EDDC2AFB78D2FAEEF9421A2AD&profile=pass
+#EXTINF:-1 logo="http://img.giaoduc.net.vn/Uploaded/quynhtien/2014_03_25/LogoFPT2.jpg" tvg-id="1e971dc36f93fa6cc0900ac4553713cf",FPT Mở Két
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1126012702?ticket=D82BF6DA7ED2FDC4BC3214D6AD704E5B01B9DD11&profile=pass
+#EXTINF:-1 logo="http://img.giaoduc.net.vn/Uploaded/quynhtien/2014_03_25/LogoFPT2.jpg" tvg-id="ac8d1ff6febaa64c6fd4a373f92b4201",FPT Mở Két
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1981779372?ticket=22DE220721A469A5167AA2FC76924CC5586A8C65&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/nsH5R8I.png" tvg-id="74269bac8d6f664347d80b0ad7f85cee",France 24
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/748365428?ticket=984F7BA92514077B55CE5BB89EA0583ED9220C43&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/aXl39YM.png" tvg-id="09b48eae8ec496e6aafb19d4e6ffff02",GEM HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/781104137?ticket=0BF638512DD8E85E6B71AF37F9194165358C088D&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/aXl39YM.png" tvg-id="11ea414327de3e7631345c7ac9659e44",GEM HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1128393233?ticket=B6953E3711038E239C6D9F893B89E98B68E3C995&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_gia-lai_145673242156.jpg" tvg-id="06a9967cb0bed8f900d3c693580adc00",Gia Lai HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/2090248454?ticket=BF6BEC8D2AA7FAB3441FD6FCF304028BA8FC5148&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/wEqQSrc.png" tvg-id="6d5e70097537c20771ef5907ea5cdae7",HBO HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/158359149?ticket=87C4C374F6F309852AC6035D7BA9090A2D359FB3&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/wEqQSrc.png" tvg-id="9eaf61e0051fc7a7c7a38c09f23495a8",HBO HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1617014686?ticket=73F608CA374BE5EA2BB573764AFA35BCAE1EBF9B&profile=pass
+#EXTINF:-1 logo="http://cuocthianh.nhalanoi.com/files/weblinks/logo-hitv-2.png" tvg-id="736050108fbc31815a6775b299bc9fa7",HiTV - Hanoicab1
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/273703027?ticket=B8FA49E8CEF4F0C2FB6E50FB3342651420E94F1D&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/238258-htvtt.png" tvg-id="55e7f5f6a6e63ce6032089867e20ba2d",HTV Thể Thao
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1995827029?ticket=0CDB3BF17C8FEC9CAE4D6593EED28E1A66442666&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/437995-htv1.png" tvg-id="2f51657e85c51398815aa91c9aacfb43",HTV1
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/2120569135?ticket=CE19FF08A1A7C18C5823629FE59F178FC12F235E&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/823770-htv2.png" tvg-id="3573516fbea2d3a66dd95a996825df1e",HTV2
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1867608885?ticket=8FBD012E1B5794790E9BF8BCE6070C2FC1EE0CE4&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/996898-htv2hd.png" tvg-id="e83f69d9ffebf698e3adee6d76ac25ba",HTV2 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1500069864?ticket=7B9D7D56472F2C296BF227C1A6B42B7EF85C22DE&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/628083-htv3.png" tvg-id="1014ec44e1cab6f1e182cd4e697cb50e",HTV3
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1156322320?ticket=0A16DFC8374A7774F14505801C076117E785A548&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/10/10/740302-htv4.png" tvg-id="78603c256d72e33ded9509f21344cd90",HTV4
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/624713848?ticket=A6EC93B4E4B63133E74EA626F14562EF55FB973D&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/02/02/519040-948241-HTV7-HD---tms.png" tvg-id="95b7062d8f9724d4f667d7ccb60d3352",HTV7 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/755414933?ticket=9BF61D46705FE739F289919A85FB336D54F79375&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/02/02/519040-948241-HTV7-HD---tms.png" tvg-id="22676ec35d83ecded07e542cc6c16455",HTV7 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1131308834?ticket=55F354FCB3D1AAAFC3DF6D5CE29883667E314DB3&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/02/02/959098-371295-logo-HTV9-HD---tms.png" tvg-id="549a5c81fe61d52b367e5dd0557b85e9",HTV9 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/22846036?ticket=6B6EEAF211EF723F2342210547FF766A892FE2FB&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/02/02/959098-371295-logo-HTV9-HD---tms.png" tvg-id="9131c90b0d8ccb858146c956009a0a41",HTV9 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/197734801?ticket=3EE39172DFC0D527AE1E55F5806A5B0FA1DDC2E5&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/813147-htvc_dulich.cuocsong_.png" tvg-id="0202f453269160a64a070fcab9d4bc2d",HTVC Du Lịch và Cuộc Sống
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1408500226?ticket=F99065C684A30AAA339CA707AEF392A330B9C917&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/banner/2015/02/26/661481-FBNC.png" tvg-id="4185328359e84fd26c34c508025059d6",HTVC FBNC HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/53642561?ticket=0866C601BE905177AA6D8062BB60FB37A7C3788A&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/banner/2015/02/26/661481-FBNC.png" tvg-id="bece383db90f85182aca91ba6af170d5",HTVC FBNC HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1027133118?ticket=E94DE5BAD391C281D6987A1197F85448F1330851&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/09/28/371877-htvc_gia_dinh.png" tvg-id="eb5df25c7738f9346f122ba4c7590a7b",HTVC Gia Đình
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1559387627?ticket=253FCE8CD332D86BEF89AC6B93B9BD3B61216766&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2017/04/20/706707-Phim.png" tvg-id="d20a87ca773c1eca3edde8565b393670",HTVC Phim - Paramount Channel
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1250364114?ticket=C84A25929164B054D98322FB231CFAE7ECDF8ED2&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2017/04/20/592006-Phim_HD.png" tvg-id="18c1fb8501bf879a33d096d1bce627a1",HTVC Phim - Paramount Channel HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/100385048?ticket=7FA07421002EBCD07238A579358892F6068EE5BE&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2017/04/20/592006-Phim_HD.png" tvg-id="ce3c594d4b1c8e72c179aee193487393",HTVC Phim - Paramount Channel HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1297693902?ticket=DC29A4B165BE27A6D8179D459513E1FAAB091319&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/10/20/162111-phu_nu_hd.png" tvg-id="7ec3b039cd38d34f820c9ad5341408aa",HTVC Phụ Nữ
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/967885694?ticket=D99636A3EE2C9CED6600A80CFFF728D88582361F&profile=pass
+#EXTINF:-1 logo="http://cameranamdinh.com.vn/upload/images/vgs-shop.jpg" tvg-id="657d32c653f52299e269dc60b69de094",HTVC Shopping - VGS Shop
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1177714021?ticket=F74C8980AF9B3A65E000A7F294D5C4D5E587FB5E&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/03/22/498648-THUANVIET---new-2016.png" tvg-id="e1b9de379e83105e7977a0de7e1ba663",HTVC Thuần Việt
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/937343457?ticket=20C7AF05E5951F950CB9855F6C2650310892B09F&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/07/01/423779-THUANVIETHD-NEW_1.png" tvg-id="c8f6ea2f4d7391516ae1575aaebc804d",HTVC Thuần Việt HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/803927752?ticket=AD37BEEA8FD7CB2287E646F8B8E873DA7B7ADBBA&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/355x200/poster/2016/07/01/423779-THUANVIETHD-NEW_1.png" tvg-id="c02492d4933896a192987b32d48ea909",HTVC Thuần Việt HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1418863808?ticket=AE3F26784EC6B47FD975E8FA798C077B8B1EE171&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png" tvg-id="c28f865e325ff0adf51e39bda41be4df",Hà Giang
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1585876930?ticket=9D9DAB84DAA7861E697722B2F84A51E75636CCBE&profile=pass
+#EXTINF:-1 logo="http://xemtvhd.net/images/icon-channel/ha-nam-hanamtv.png" tvg-id="11e2527587d97149b81cbba0b0933b27",Hà Nam
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1968366097?ticket=780BB7159EF2959DB7BD4285B3A870DED650DF16&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg" tvg-id="f23a099f78bb0e567abeb9463ad92bf0",Hà Nội 1 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/520698610?ticket=74548005BBDF25B722A01A835B97170470F84BFF&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-2_145672748742.jpg" tvg-id="89fc862fa1aea41d72190310f765fe72",Hà Nội 2 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/797375625?ticket=4B494E5235E4B257162C37E4D6B67FD854AF306A&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-tinh_145881054027.jpg" tvg-id="eea4e5d01e4f9e47af6c79cea44cb1f7",Hà Tĩnh
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1357227246?ticket=1A3358FEE587E88FA29E2EB810B234E490FC1780&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hoa-binh_145681701391.jpg" tvg-id="48a0e56cb23d1f62d966e77d5ef2d671",Hòa Bình
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1826988104?ticket=AB3C6443CC6E9A6A26D6EB45FEBBC9B0AC8697D7&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hung-yen_145880734258.jpg" tvg-id="0cad893b3a4d6897a5de1f92cccd7edd",Hưng Yên
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/998878476?ticket=62A1A96304AFB90DF9C5565068400C3EC6D23EEF&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-duong_145880941298.jpg" tvg-id="7a4a4b43b352363f635992950e142ca6",Hải Dương
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1129007738?ticket=FF330A8E1B71849608FD912C4315D230A2B6504A&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-phong_14567275037.jpg" tvg-id="88d13321bfce3fbdb9a6e71917aec074",Hải Phòng HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/557044104?ticket=AA7B4890733E07A46AE66E27735216603E7FE759&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hau-giang_145673319528.jpg" tvg-id="3880dcf23c55f5cd0294d399dc2024a7",Hậu Giang HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1927053368?ticket=DE3F5E1A123D8DE284F5AF309928A3A609B41092&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_binh-duong-4-hd_146312577314.png" tvg-id="0026478829fd2ae904a0fd24cd2b735d",iMOVIE TV HD - BTV4 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/138880512?ticket=B136C085EC6E48448176576FFB72D7DA07EAE7CA&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_khanh-hoa_145672791198.jpg" tvg-id="bae567033dfd892f6701d86c21f24c7b",Khánh Hòa
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/57140666?ticket=547B2625E4155F40436DE0CAE04DD06DE9D75CDA&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_146293779839.png" tvg-id="96100ff7286242b301a913b39dec5509",Kids & Family TV - VTC11
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1997475990?ticket=66F1322451A16CECCA213D933E789B0139F12439&profile=pass
+#EXTINF:-1 logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" tvg-id="0c638e3e7dc56681e8d569a9cdb684b5",KIX HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1049518860?ticket=550E918F5D0E20EBCC0F5B9E6E5B24D0F59802C6&profile=pass
+#EXTINF:-1 logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" tvg-id="154739c1dc5aec9ccffa58c3062764c5",KIX HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1094272789?ticket=B1F757580B1A70AD90CC509774FAEC39A0EBB59A&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kien-giang_145880815375.jpg" tvg-id="be1d2cdc573b7fd855041d9a23d607e2",Kiên Giang
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1546395070?ticket=9ADC1B93935D621D72638F770E6C327D882B1D6E&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kon-tum_145881138908.jpg" tvg-id="a374ba8941506fdfe6cf743a387e432a",Kon Tum
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/163214499?ticket=C1901FF96051F17F1703A624F84EC2961A362A51&profile=pass
+#EXTINF:-1 logo="https://static-stage.tv24.vn/channel/9/s4.png" tvg-id="c1165429bbffc8c40ebe1e604f9e458d",Let's Việt-SCTV4
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/693376705?ticket=4D1D06AE7A81D25A9B63EF8ADB353206E0339270&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_long-an_145880901975.jpg" tvg-id="406841be947fbca2e840e4c400e3673d",Long An 34
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1044473920?ticket=FB37F2C440A24952CDE050BD8D70BE86D0D1F588&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lao-cai_145880951162.jpg" tvg-id="d3405f81f8d59f53b335f7b11ddd9ac5",Lào Cai
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/23019731?ticket=B135BC4359D1DCD95AFD1AEF7DDC33E7B0A64599&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lam-dong_145880770362.jpg" tvg-id="bfdb25c695e4c973a63a00a005e41a97",Lâm Đồng
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1176886207?ticket=F0014820B0D0FA2489FF4F9A0C91F0F220CF6548&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lang-son_145880895824.jpg" tvg-id="f540a4b656df5ba8d336a72b1f6be4ec",Lạng Sơn
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/916734197?ticket=26B53AFB8B25C69EFD352797D90611E4E6E16F37&profile=pass
+#EXTINF:-1 logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png" tvg-id="9580ca0bfa23455ba38bf9a67e2d6e11",MAX by HBO HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/197820565?ticket=209EF5DD82EFE4DF353A189F9CF2301F95835ECF&profile=pass
+#EXTINF:-1 logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png" tvg-id="7b393d9e7b01b5c8e22a5780c2a9cd87",MAX by HBO HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/507328891?ticket=62E1AA462A7C9AD0DA11A17C521453E053CA68F3&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_mien-tay_145578714821.png" tvg-id="e00cf991bb097741819be1af983c01c6",Miền Tây - THDT2
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/301534432?ticket=BC5BC5489D230C500C078FA1E7389601FE48ED7E&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/KaVSxXc.png" tvg-id="61b942ede6b00441b0fa6709a1338cc7",MOV HD - Hanoicab4
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1833089377?ticket=A0414D6DB2195889145E8468F21178661FCC7CF7&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/FeFMOxH.png" tvg-id="9327208b39a8bc8394b9ca5ef5b5ca4b",MTV
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/186656659?ticket=A086298A95C355C109E113999F4D513DB887C5F6&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nam-dinh_145880959527.jpg" tvg-id="eb693e24b243caf302df0067a62546d0",Nam Định
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/608070123?ticket=5192B22C6CFB78F26D74D008A8FFE32344269F61&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/z3SVeHB.png" tvg-id="870d4ddab00a20d25938fa4dc08a55f8",National Geographic HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1514999175?ticket=43C1CE67B7D4F0A2AAC111BB53B43DBA86FFA5C0&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/z3SVeHB.png" tvg-id="84d250dbc13d2e7de1a54fdfb2274b70",National Geographic HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1532023428?ticket=A03BCEAEFEAFAFC08CD4559BC90E0B3A91EF0CA9&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ncm_145578899016.png" tvg-id="f96a9c0fc32a665c29b47607c7cfc46d",NCM - BTV10
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/261909241?ticket=AC929673EB63747ACE265FD09629EF397B29A2DD&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nghe-an_145578842534.png" tvg-id="84554b00dc07d2526217800e786a3977",Nghệ An
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/4937092?ticket=578DC6E23F88F756727A9142DED0909F11B93A42&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/4M3Y2Ok.png" tvg-id="bd376d7d1bb7d9090ad1e6e03eb27e92",NHK World HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/2104309693?ticket=371396B70A3D1B16C8C2CD36C77065E71937FFE8&profile=pass
+#EXTINF:-1 logo="https://mytv.com.vn/upload/news/2015/06//870_225_329_249_anh_THND.png" tvg-id="90cf6d05cf31074b1e833ef5b18b19d4",Nhân Dân HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/91082640?ticket=3162E17BB1D4BD2AE0A41C228479ADB0E0417219&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ninh-binh_145672792288.jpg" tvg-id="2a86d298198b9c76e57862bbf8814448",Ninh Bình
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/416450090?ticket=329C5CF338EC8ED28928FFE43074FEDA76B31E09&profile=pass
+#EXTINF:-1 logo="http://gardenmedia.vn/kcfinder/upload/images/B%E1%BA%A3ng-gi%C3%A1-qu%E1%BA%A3ng-c%C3%A1o-truy%E1%BB%81n-h%C3%ACnh-Ninh-Thu%E1%BA%ADn-n%C4%83m-2017.png" tvg-id="b411aa92df58fa6983db40874e467385",Ninh Thuận
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/313135540?ticket=52404600C2191A2F0AD6669D29DC77DE79D8D7D6&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc10_145673016157.jpg" tvg-id="a7727b46d7af7b1310a0807c49f2498c",Nét Việt - VTC10
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1182495399?ticket=BE41B6311191168276D185835535D5F5985ED363&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png" tvg-id="309ec40bd3f753b0415a0ded8585be4c",Outdoor Channel HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/197434928?ticket=A8974BBF2DC6859F37B45F6A02AA8410EB56888C&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png" tvg-id="6d39afa6c055987713bcad30394fe9ef",Outdoor Channel HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/649017709?ticket=AC90675D3B533DAD3D0B28B76569748DD31BEC73&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/Rz2LZJp.png" tvg-id="118089346e2d50709da3e1d99f2a69c1",Phim Hay
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/881426449?ticket=FB7A91B7755E0779E1CC971A7D5014A5858B27FD&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_phu-tho_14588083472.jpg" tvg-id="8d3e01bd6f2eb03fe675e9f99d53053e",Phú Thọ HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1023491725?ticket=7FC2131A1D7077B4DB40E3634F758C96B376EA7D&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Phuyen.png" tvg-id="db7fb6c6e384aa3512dbed121e968820",Phú Yên HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1186365403?ticket=0B51C0F727D90C78BFBB641304C3638461FDE654&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-binh-tv_145734126864.jpg" tvg-id="3f4757fe97c4bdba1e1187f597e195aa",Quảng Bình
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/2119649087?ticket=3E823F14A4EFB678CA36A5445A6C013D0B274A12&profile=pass
+#EXTINF:-1 logo="http://img.giaoduc.net.vn/Uploaded/quynhtien/2014_03_25/LogoFPT2.jpg" tvg-id="c2358bd82e57d32862cfd9861575be33",Quảng cáo Thể Thao FPT
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1485518274?ticket=197C5D2777E1EA5E1E9DF5A7EEEFD9B4A94D2D6F&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-nam_145880919575.jpg" tvg-id="e6dce41a0e3db75c95e97d2368969aa7",Quảng Nam
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/451206374?ticket=B1063A1F7B185BDA49CD31AF9760795B54A30ED1&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ngai_146362646218.jpg" tvg-id="9e8c4175a5af899cadfd3f451946b0ab",Quảng Ngãi HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1967230110?ticket=2DDA565FB76D700EF86C42F3314B2CBF3396614F&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ninh-1_145672976024.jpg" tvg-id="aa14de477e07b51f5e5b684bda473f3f",Quảng Ninh 1
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1205736618?ticket=2F95CF2F1596AF5E08A19BA9CE19008BFE745445&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-ninh-3_145672977406.jpg" tvg-id="61b6fe2a8e0626ef2fbc13ca20a7768d",Quảng Ninh 3
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/721335905?ticket=B8E82BA0267356D87CC365B688FC70DECEB365D4&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-tri_145880945461.jpg" tvg-id="5752db34751ea447a410a46bc5d041e6",Quảng Trị
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/886788695?ticket=A909AF66C08AFABF6055605BD91BB0B95B3A5137&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/460x260/poster/2016/07/13/716000-quoc.hoi_.png" tvg-id="2bc66c23f660b9e75b5f62b72b017b92",Quốc Hội HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/594331179?ticket=F0B4F241538CF804906955A9724B1C39D505D41D&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/460x260/poster/2016/07/13/716000-quoc.hoi_.png" tvg-id="07e6df77dece05089131ddcd496fc2d8",Quốc Hội HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/2011162119?ticket=C4F847156BBEDAA3984D4C1A52C73897F1B26E65&profile=pass
+#EXTINF:-1 logo="http://www.qpvn.vn/uploads/site/199067b5185501cc8e67c365dfd7436292da4e21.png" tvg-id="72fcea09e53f7bdf3304ae42b7053f1c",Quốc Phòng Việt Nam HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/166394994?ticket=6EE61BD4177229D0899365150B345C8A243B2A37&profile=pass
+#EXTINF:-1 logo="http://www.qpvn.vn/uploads/site/199067b5185501cc8e67c365dfd7436292da4e21.png" tvg-id="807bb2bdbe4cd47e612976a00b420210",Quốc Phòng Việt Nam HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1035107200?ticket=D85587EE2A1209C5D0711C4064057DB3F4DCA768&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_red-by-hbo_146590145963.png" tvg-id="b2bb5b47d446672c0beb46cc4bf52ce7",RED by HBO HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1197194162?ticket=E3631CB5CE2371B973A6A45257850CBFC856A13F&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_red-by-hbo_146590145963.png" tvg-id="8e19fffff0c5bb31c58530558bbbf797",RED by HBO HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/2147424654?ticket=E8A0DCDCF2F262F41ECB2F6C4302D48ED27C04AD&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_sam_145672992973.jpg" tvg-id="7641c6f00deaafc5a45c4827b8063852",SAM - BTV11
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1892041078?ticket=97EC6A76B57F2579B0CB7524418F384CA8760643&profile=pass
+#EXTINF:-1 logo="http://static.sctv.com.vn/Media/ShortCut/channel/sctv10.png" tvg-id="16a2fadfff3779e542860d63d64ada6b",SaoNamShopping-SCTV10
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1610261014?ticket=8470F7D6392114FE83C6B2D38C505D221CC95B7C&profile=pass
+#EXTINF:-1 logo="http://nhatronghinsao.vncctv.com:9981/imagecache/121" tvg-id="c13a4ba1736007971e16639630a1a23d",SCTV5
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/558578369?ticket=09915659E44AE1AD27FFF2280572E25412A2C65C&profile=pass
+#EXTINF:-1 logo="http://img.hplus.com.vn/728x409/banner/2015/02/24/796885-soc-trang.png" tvg-id="2335bfb5bf5df25c8e4221a88b1bbb86",Sóc Trăng 1
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/901723427?ticket=223292DFAFA3731321DEED80FA0526127AED4F2D&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_son-la_145881052785.jpg" tvg-id="ee562f49ebe74152296ee001cab41642",Sơn La
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1227839214?ticket=96C72560F98C43A68581B49CAEF9627FAA6F70E4&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_thanh-hoa_145828820204.jpg" tvg-id="d65ec0b102c8f62e1cfc04d324acc3db",Thanh Hóa
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/834690774?ticket=D03A26755D3EF7DD7405CC1CDD685810B1136C64&profile=pass
+#EXTINF:-1 logo="http://img.giaoduc.net.vn/Uploaded/quynhtien/2014_03_25/LogoFPT2.jpg" tvg-id="987c241dbb97d5b86f5a321d2ee834f7",The Mira Hotel
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/488930456?ticket=D9CC9E9257B1A27A81C2CB60D20AE75F9E25BD0D&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_thai-binh_145673305396.jpg" tvg-id="65d80dbfbfa7b0c5c36613f5a954d15c",Thái Bình
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1057871973?ticket=24AA463C32000BFF2BBD64BCAEB774FA6F4DA09C&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_thai-nguyen_145880748867.jpg" tvg-id="c0c30727196f263da4e28bcdb57d882a",Thái Nguyên 1 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/654820288?ticket=7B65A349A27DA73F0B12C0819C58E6C8B9E4AFCF&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg" tvg-id="fc7a45b2a8d13d7c3d6f69575740cfd0",Thông Tấn Xã Việt Nam
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/843414268?ticket=FA419BDA363D76DF45DF3ACC55A6E2C3E04015DC&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg" tvg-id="8f676b32e506127867dca3bd02b68c29",Thông Tấn Xã Việt Nam HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/845899663?ticket=8D2CEA97880537195C388F2BB098B293BBF08E8F&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_thua-thien-hue_145880926795.jpg" tvg-id="c3e6bdead02cb00c3eeb31ed178733fe",Thừa Thiên Huế
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1790830275?ticket=B6060FCC4582A5C361B95619EB7414F5BE420754&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_tien-giang_145734128144.jpg" tvg-id="149a6f59c6165aba426cf6d4c9c9f319",Tiền Giang
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1500486164?ticket=1D3ADBD5DD12564286209346C10D8D53BCAE7C07&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/TInMfsC.png" tvg-id="2986d60eaa8b56feb1bac9ad62181354",TLC
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/248940073?ticket=2A0A57D7B33B4F0480DA50C7A8D4D425866D1779&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc7-todaytv_145673310065.jpg" tvg-id="a934f86a38b5319e56a87aaf12f244fb",Today TV - VTC7
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1794651305?ticket=F3ED1B9CDF5ABDBCD0989FC01E915D5597877CF7&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_tra-vinh_145880827066.jpg" tvg-id="c4a6f2c266d08a4fd68dd126a97e9b8b",Trà Vinh
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1123198660?ticket=8966ABBE42A87ABAEE6BD4144ED49A8914A84CC0&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_tuyen-quang_145673727398.jpg" tvg-id="3dba453eec64d11615281d1cc44696b4",Tuyên Quang
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1044757053?ticket=1195FFC2F079575EFCDBACF3658415E09C40678D&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/FE0h0Cq.png" tvg-id="ea88cc707c49a8b52e8a73f4c0ee6e9a",TV5Monde Asia
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1892452586?ticket=A61B2F647825F1D080898885F14C40128020B857&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc5_145673010995.jpg" tvg-id="65c957605d87105792a4a58799a3ce0b",tvBlue - VTC5
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1616365925?ticket=FA41477CB4D73B52D9BD0B097883E083FA1D2410&profile=pass
+#EXTINF:-1 logo="http://www.yeutivi.com/assets/channels/ttv11-dadbe87b325e840d0a5dbaabdb4ce9d6fc4711cebe44591f3fd9a15ef9285309.png" tvg-id="bc5289fd79847ac1c3ef4cc4b5b2096f",Tây Ninh 11
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/2106151612?ticket=E92D473C914C4C08AEA9882BB61ED7889ACBD386&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc8_145792090102.jpg" tvg-id="f72d1db8bc48577ec42c980a283811f9",View TV - VTC8
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/941436407?ticket=A5FC4FC2CB01095ECAC36B3DABA39FD5867E638A&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/jqr1Ilv.png" tvg-id="bd092b35022247c42c8fc912f21d948b",Việt Nam Nét
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/892012989?ticket=679D59C70535100C6CE958133EC526D3FAAA9835&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vietteen_145578607357.png" tvg-id="3be8d50c4972352cfbb737be121358c0",Việt Teen - BTV6
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/215345211?ticket=1438815E2AFF8685D103C0431FD41F1702F4DF98&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vovtv_145673316221.jpg" tvg-id="9949d1bdfcc0311a990b227b931c80b7",VOV
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1037126041?ticket=87204343CBCAF12EA8DA97A9DC8B5D360EF7C11E&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc1_14567301764.jpg" tvg-id="4ac61f5c47af1a0ad6717f690e3abd46",VTC1
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1545586250?ticket=63FDEBA176E7EE167A157CBA3572D52551532525&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc1_14567301764.jpg" tvg-id="2e611ae08994b84a973acdc3b41115da",VTC1 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1612341550?ticket=CDFF027CF4272234D24AB738301CC4109E24EBFA&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc12_14579482854.jpg" tvg-id="4a1f9f3cb959950754c63bd16ab65ba0",VTC12
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1017061194?ticket=1325F5738AAE6F52A1532963AC0EECF9B1BE66E1&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_itv_145578605209.png" tvg-id="32d645caf5b582f50f321af79a962006",VTC13 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1246090802?ticket=46AE9FFF7840554D98140D17E6F54478D1D8901D&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg" tvg-id="75012ade677b7bc4b2eae23b7cd9b108",VTC14
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1579811189?ticket=561B5DD6773BE51DCF8EC8AE0ABE594E35F99B07&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_145872429811.jpg" tvg-id="ddc29600ecc7af166a7dfadaaf3ef85d",VTC14 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/9880285?ticket=34BD106697D0813244D44E3585608D1E4E4A67DD&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc2_145673009926.jpg" tvg-id="b42d7559ac91a5c27ed47e6b8fdfeddf",VTC2 - #Kênh2
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1500851636?ticket=F6FE837F269AEECC9C11CE9BD98F67DC5DC02C25&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_145673013407.jpg" tvg-id="6c7e1b806ca63b123fad319603d3c35a",VTC3
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1801836?ticket=245B576F89A7D8A475837D2E72E8E6CF815E87DC&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_145673013407.jpg" tvg-id="75ff8b6a5ba5e5847318c477d15d02f0",VTC3 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1787559797?ticket=5834CFE35BBE60C74ED177C2CBE65340B9DC7587&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vtc6_145673012197.jpg" tvg-id="b5a8bb85225fa48cf38139c278642a48",VTC6
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/96184501?ticket=740E1BB5F6BD9A8469008F2063DE928EAC131F31&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_lets-viet_145673303543.jpg" tvg-id="de1bc909521bcbe193eb0ffc57966f65",VTC9
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/164174814?ticket=7CD5D4EB57572297D97C3BB6BEAAD0B4CCCA3303&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_148005282771.jpg" tvg-id="59240ee178c04a2689a54d70d9878811",VTV1 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1628316761?ticket=16772E1114C67BD4E932EA45EA4F79ADAFC7A26B&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_148005282771.jpg" tvg-id="1b6a02fabfb0f3b0af2f65661f2c076c",VTV1 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/2046978587?ticket=DE57180FB58C466F58200FD6800E89815BFC0676&profile=pass
+#EXTINF:-1 logo="https://s19.postimg.org/9pyyi18wj/tx6_M3w_I.png" tvg-id="61e1fa83fd0531e6ed94483a4876f06c",VTV2 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/66773345?ticket=4C0551FABCE66703687F187B4A8CC4AA1BDE57A3&profile=pass
+#EXTINF:-1 logo="https://s19.postimg.org/9pyyi18wj/tx6_M3w_I.png" tvg-id="2cdcbc0d18a407addb3f39b5ea2bb152",VTV2 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/230480940?ticket=5AFB6F20470F8043BD6C9FA4D3F516E0860C256D&profile=pass
+#EXTINF:-1 logo="https://s19.postimg.org/gizbeazpv/4_CNs_FQ6.png" tvg-id="17e89e9979548b1ce57b17fadb73bd54",VTV3 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/429844503?ticket=85E1D9A7529D3BAB405D2ED2808375E84DD60B17&profile=pass
+#EXTINF:-1 logo="https://s19.postimg.org/gizbeazpv/4_CNs_FQ6.png" tvg-id="eb3d0bff8490448a58511843cb6cf203",VTV3 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/2131443179?ticket=DF7C368F6B9954626C351AF80FC28600DE0818D2&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/vi/b/b9/Logo_VTV4.png" tvg-id="f25514a33c766694f518020164364813",VTV4 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/588535282?ticket=26B8FA6450E729BCB96B9B5403F2B4582358A446&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/vi/b/b9/Logo_VTV4.png" tvg-id="7592d9e2028547dcc52449651d25370b",VTV4 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1658425973?ticket=6E3EDDACCEB32D2309AC967278DC08C4FB863876&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logov5.png" tvg-id="d977dda19e56c86e9d7684fe9221621a",VTV5 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/568162265?ticket=720894D0C51A38B2CFB9505706905A477850F51E&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logov5.png" tvg-id="4eedc85e923caa38c8040d966e500a1c",VTV5 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1590226254?ticket=B6D824ACA4DFECC025CC3CECB8701604329E7D81&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/kplGmyh.png" tvg-id="bb5b1dc0b0b8dfa069aea1ef5c0a4bf6",VTV6 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1075665851?ticket=2C4EA31876CF6D5613884C1EDE116CE2E2629998&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/kplGmyh.png" tvg-id="8d1c5e5419a6bb7e71f34e4866ab62ad",VTV6 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1415453837?ticket=109E510F7B83B55D2AC25AD556E0A24546C67AE2&profile=pass
+#EXTINF:-1 logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png" tvg-id="dcbcf6fba3d28ad39908d1d251c79578",VTV7 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/2079767772?ticket=C119DB4D84541C92CC0D8786786510CBF59714DA&profile=pass
+#EXTINF:-1 logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV7.png" tvg-id="4bd38efc7ee8fc5727cc1c2b71644717",VTV7 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/2089734987?ticket=E2E77020501588A38618928EB56B6A6D4F5B40FF&profile=pass
+#EXTINF:-1 logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png" tvg-id="1ad24d2395fc30e5c3780dec6d5a77a9",VTV8 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/592302618?ticket=C0DDB24EAEBAD4F678494760ED1142C801BAA328&profile=pass
+#EXTINF:-1 logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV8.png" tvg-id="9ce8123b6cb6b3afe749c77b589f3833",VTV8 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/991094940?ticket=D383591A809C81DB394CA7200BCB436531719C6C&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/VTV9new2015.png" tvg-id="ac87bca29c236c58ab355521f9280fc9",VTV9 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/582780844?ticket=FBC138822B8E9AC3D7C42C8361787D85A60DF9AC&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/vi/5/5d/VTV9new2015.png" tvg-id="8dd6d44fd6488c6118d8918d3a0aa6cd",VTV9 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1339348621?ticket=4F634F9DD95CE8267E433B81B2AEEAB66EB9994F&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv-hyundai-home-shopping_146172673001.jpg" tvg-id="698a3ab9da8b8e38d234ba54efb2f97c",VTVCab13 - VTV Hyundai Homeshopping
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/960137833?ticket=AF9D8720B6BE7FB9288BB871F6B9452D32227759&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vinh-long-1_145673001289.jpg" tvg-id="0bc85c5227fa5fcb6e004ab49de4bca4",Vĩnh Long 1 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1381812235?ticket=B733EAFB18BBD96BB4536B9C42266C72D8504E59&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_145673002208.jpg" tvg-id="bbfbdc97baf137107ddc03ed701fc5c3",Vĩnh Long 2 HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/400358331?ticket=85388E2969A747D39AF907D9E38295EEC95F3B34&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_vinh-phuc_145880931198.jpg" tvg-id="ec57871c597c628db197bb89f4091c59",Vĩnh Phúc
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/478631916?ticket=008AA22814E188E34CDD1212D4AE5A6E1240D5C0&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png" tvg-id="b541fa2aa44e10821e31a4b9905dc8b6",Warner Bros TV HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/721043893?ticket=0730CE4A0BE116BF4964E2D2B530CA6DF8589362&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png" tvg-id="6f286556d8b61b71fee520809d369548",Warner Bros TV HD
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1449470063?ticket=786B325B19D223B25431A4E0AF1EEF154FDC5C2B&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png" tvg-id="e3697bc9573f455531a63e4273aba642",Yeah1 !Family - VTC4
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1232824803?ticket=473D50B57A872DAF88F8F91ACE578061E3065C77&profile=pass
+#EXTINF:-1 logo="http://youtv.vn/images/logo.png" tvg-id="16c04df2de1fbb0dcdf9037ab4f440b7",You!TV - Hanoicab2
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1917698070?ticket=3139C1F111934054EF54120953AA92C433DE61F8&profile=pass
+#EXTINF:-1 logo="https://static3.fptplay.net/static/img/share/channels/icon_channel_yen-bai_145880728083.jpg" tvg-id="251fa1d56f616cdce2c45ecb7130f100",Yên Bái
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/1436622629?ticket=FBF30A489F3FEA26555107FB90BD8F1DDD9AC0A7&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dien-bien_145880775626.jpg" tvg-id="ba8ce62cf226e2c3e879b71d5570a96e",Điện Biên
+http://nhatronghinsao.vncctv.com:9981/stream/channelid/753306810?ticket=E8D91EE6FF7103D06170DBE8B2990382979379E0&profile=pass
